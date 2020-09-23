@@ -1,6 +1,4 @@
-# firestore_flutter
-
-A new Flutter project.
+# TODO FLUTTER APP WITH FIRSTORE AND FIREBASE AUTH INTEGRATION AND GETX
 
 ## Getting Started
 
